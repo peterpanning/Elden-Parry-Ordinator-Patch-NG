@@ -1,0 +1,15 @@
+{
+"name": "commonlibsse-plugin",
+  "version-string": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": [
+    "boost-stl-interfaces",
+    "rsm-binary-io",
+    "simpleini",
+    "spdlog",
+    "xbyak",
+    "rapidcsv",
+    "commonlibsse-ng"
+  ]
+}
